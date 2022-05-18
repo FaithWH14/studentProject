@@ -1,0 +1,10 @@
+Execute the input_output.py in console
+
+Input the appropriate value for each feature
+1) Machine Type
+2) Air Temperature [k]
+3) Process Temperature [k]
+4) Torque [Nm]
+5) Tool Wear [min]
+
+output value -> machine failure/ machine not failure
